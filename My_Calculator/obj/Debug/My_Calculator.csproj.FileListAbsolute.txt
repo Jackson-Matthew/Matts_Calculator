@@ -1,0 +1,10 @@
+C:\Users\matth\OneDrive\Desktop\GitHub\My_Calculator\bin\Debug\My_Calculator.exe.config
+C:\Users\matth\OneDrive\Desktop\GitHub\My_Calculator\bin\Debug\My_Calculator.exe
+C:\Users\matth\OneDrive\Desktop\GitHub\My_Calculator\bin\Debug\My_Calculator.pdb
+C:\Users\matth\OneDrive\Desktop\GitHub\My_Calculator\obj\Debug\My_Calculator.csproj.AssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\GitHub\My_Calculator\obj\Debug\My_Calculator.Form1.resources
+C:\Users\matth\OneDrive\Desktop\GitHub\My_Calculator\obj\Debug\My_Calculator.Properties.Resources.resources
+C:\Users\matth\OneDrive\Desktop\GitHub\My_Calculator\obj\Debug\My_Calculator.csproj.GenerateResource.cache
+C:\Users\matth\OneDrive\Desktop\GitHub\My_Calculator\obj\Debug\My_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\GitHub\My_Calculator\obj\Debug\My_Calculator.exe
+C:\Users\matth\OneDrive\Desktop\GitHub\My_Calculator\obj\Debug\My_Calculator.pdb
